@@ -1,0 +1,6 @@
+@LazyLoadingEagerLoading_HostAddress = http://localhost:5144
+
+GET {{LazyLoadingEagerLoading_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
